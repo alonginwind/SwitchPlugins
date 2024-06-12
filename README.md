@@ -6,6 +6,4 @@
 此项目由xiaobai整合二次开发，非常感谢huangqiang8大佬的一次整合
 
 # 更新日志
-- 删除lang文件夹
-- 删除screenshot文件夹
-- 
+- 2024.6.12 拉取zdm大部分ovl
