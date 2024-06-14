@@ -6,18 +6,16 @@
 # 插件包中插件
 
 - 东方大佬:
-  - sys-tune(2.0)：后台音乐播放插件
   - sys-patch(1.5.1)：系统补丁插件
 - zdm大佬(2024/06/10更新)：
-  - QuickNTP
-  - sysdvr-overlay
-  - ldn_mitm
-  - Status-Monitor-Overlay
   - ovl-sysmodules
-  - ReverseNX-RT和FPSLocker
-  - emuiibo
+  - Tesla-Menu
   - EdiZon-SE和EdiZon-Overlay
+  - ReverseNX-RT和FPSLocker
+  - Status-Monitor-Overlay
+  - QuickNTP
   - sys-clk
-  - 
+
 # 更新日志
 - 2024.6.12 重构插件包
+- 2024.6.13 去除一部分插件
