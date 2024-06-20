@@ -26,4 +26,4 @@ https://www.tekqart.com/thread-222735-1-1.html?_dsign=c72d4895
 - 2024.6.12 重构插件包
 - 2024.6.13 去除一部分插件
 - 2024.6.18 更新ReverseNX-RT, Status Monitor
-- 2024.6.20 sys-patch和sigpatchs正式更换为 gba论坛版本
+- 2024.6.20 sys-patch和sigpatchs正式更换为gba论坛版本
