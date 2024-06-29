@@ -3,8 +3,6 @@
 
 此项目由xiaobai整合二次开发，非常感谢huangqiang8大佬的一次整合
 
-https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/
-
 https://www.tekqart.com/thread-222735-1-1.html?_dsign=c72d4895
 
 
@@ -12,10 +10,11 @@ https://www.tekqart.com/thread-222735-1-1.html?_dsign=c72d4895
 
 - zdm大佬(2024/06/18更新)：
   - ovl-sysmodules
-  - Tesla-Menu
+  - Ultrahand
   - Status-Monitor-Overlay
   - QuickNTP
   - sys-clk
   - emuiibo
 - gba插件(2024/06/20更新)：
   - sys-patch
+- linkalho
