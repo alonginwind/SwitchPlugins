@@ -13,17 +13,9 @@ https://www.tekqart.com/thread-222735-1-1.html?_dsign=c72d4895
 - zdm大佬(2024/06/18更新)：
   - ovl-sysmodules
   - Tesla-Menu
-  - EdiZon-SE和EdiZon-Overlay
-  - ReverseNX-RT和FPSLocker
   - Status-Monitor-Overlay
   - QuickNTP
   - sys-clk
+  - emuiibo
 - gba插件(2024/06/20更新)：
   - sys-patch
-  - sigpatchs
-
-# 更新日志
-- 2024.6.12 重构插件包
-- 2024.6.13 去除一部分插件
-- 2024.6.18 更新ReverseNX-RT, Status Monitor
-- 2024.6.20 sys-patch和sigpatchs正式更换为gba论坛版本
