@@ -8,7 +8,7 @@ https://www.tekqart.com/thread-222735-1-1.html?_dsign=c72d4895
 
 # 插件包中插件
 
-- zdm大佬(2024/06/18更新)：
+- zdm大佬(2024/06/22更新)：
   - ovl-sysmodules
   - Ultrahand
   - Status-Monitor-Overlay
@@ -17,4 +17,4 @@ https://www.tekqart.com/thread-222735-1-1.html?_dsign=c72d4895
   - emuiibo
 - gba插件(2024/06/20更新)：
   - sys-patch
-- linkalho
+- linkalho(v2.0.1)
