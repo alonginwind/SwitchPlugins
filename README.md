@@ -8,13 +8,12 @@ https://www.tekqart.com/thread-222735-1-1.html?_dsign=c72d4895
 
 # 插件包中插件
 
-- zdm大佬(2024/06/22更新)：
-  - ovl-sysmodules
-  - Ultrahand
-  - Status-Monitor-Overlay
-  - QuickNTP
-  - sys-clk
-  - emuiibo
-- gba插件(2024/06/20更新)：
-  - sys-patch
 - linkalho(v2.0.1)
+- zdm大佬(2024/06/22更新)：
+  - nx-ovlloader
+  - Ultrahand
+  - ovl-sysmodules
+  - emuiibo
+  - Status-Monitor-Overlay
+  - sys-clk
+  - QuickNTP
