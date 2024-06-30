@@ -11,7 +11,6 @@ https://www.tekqart.com/thread-222735-1-1.html?_dsign=c72d4895
 - linkalho(v2.0.1)
 - zdm大佬(2024/06/22更新)：
   - nx-ovlloader
-  - Ultrahand(6月29日 修复汉化：“不透明的截图”后边的标点符号)
   - ovl-sysmodules
   - emuiibo
   - Status-Monitor-Overlay
