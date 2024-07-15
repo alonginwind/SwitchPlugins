@@ -10,6 +10,8 @@ https://www.tekqart.com/thread-222735-1-1.html?_dsign=c72d4895
 
 - linkalho(v2.0.1)
 - zdm大佬(2024/07/04更新)：
+  - nx-ovlloader
+  - Tesla-Menu
   - ovl-sysmodules
   - emuiibo
   - Status-Monitor-Overlay
