@@ -8,7 +8,7 @@ https://www.tekqart.com/thread-222735-1-1.html?_dsign=c72d4895
 
 # 插件包中插件
 
-- linkalho(v2.0.1)
+- linkalho(v2.0.1，7月26日更新)
 - zdm大佬(2024/07/04更新)：
   - nx-ovlloader
   - Tesla-Menu
